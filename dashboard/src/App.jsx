@@ -1,5 +1,3 @@
-// import './index.css'
-
 function App() {
   return (
     <div class='text-5xl bg-[#111]  text-[#ff4500] p-5'>
